@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">ProjectTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="textEventItem">Item</string>
+    <string name="textEvents">Evento(s)</string>
+    <string name="lbl_checkin">Fazer check-In</string>
+    <string name="lbl_how_to_get">Como chegar</string>
+    <string name="lbl_date">Data</string>
+    <string name="lbl_price">Preço</string>
+    <string name="lbl_enter_name_and_email">Informe seu nome e e-mail:</string>
+    <string name="lbl_name">Nome</string>
+    <string name="lbl_email">E-mail</string>
+    <string name="lbl_save">Salvar</string>
+    <string name="lbl_event_list">Lista de Eventos</string>
+    <string name="title_activity_event_item">EventItem</string>
+    <string name="errorEvent">O evento deve ser informado</string>
+    <string name="nameErroEvent">O campo nome deve ser informado</string>
+    <string name="mailErroEvent">O campo e-mail deve ser informado</string>
+    <string name="checkError">Ocorreu um erro ao processar o check-in</string>
+    <string name="checkSuccess">O check-in foi processado com sucesso</string>
+    <string name="title_activity_event">Event</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="lbl_load_events">Carregando Eventos...</string>
+    <string name="invalidMail">Informe um e-mail valido</string>
+    <string name="errorHttp">Ocorreu um erro ao carregar os dados</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="checkin">Check-In</string>
+    <string name="name_checkin">Nome</string>
+    <string name="mail_checkin">E-mail</string>
+    <string name="close_checkin">Fechar</string>
+    <string name="confirm_checkin">Confirmar</string>
+    <string name="error_http">Sem conexão no momento, tente mais tarde</string>
+    <string name="noConnection">Sem conexão</string>
+</resources>
